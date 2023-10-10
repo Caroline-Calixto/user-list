@@ -1,0 +1,16 @@
+.table {
+display: grid;
+text-align: center;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  min-width: 184px;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}

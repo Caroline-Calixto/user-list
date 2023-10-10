@@ -1,0 +1,9 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    padding: 24px 0;
+}
+
+.seach__button {
+    margin-left: 24px;
+}
